@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **contact@anirudhmalhotra.me**
 
+ My focus is on advancing the capabilities of robotic systems by applying cutting-edge technologies such as machine learning and deep learning algorithms. Currently, I am actively researching and exploring new areas within these fields to enhance the agility of robots. I am always on the lookout for development opportunities to further my expertise and contribute to the development of innovative solutions.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anirudh-malhotra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-malhotra" height="30" width="40" /></a>
