@@ -27,3 +27,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aninotrude&show_icons=true&locale=en&layout=compact" alt="aninotrude" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aninotrude&show_icons=true&locale=en" alt="aninotrude" /></p>
+
+![Snake animation](https://github.com/aninotrude/aninotrude/blob/output/github-contribution-grid-snake.svg)
