@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aninotrude&show_icons=true&locale=en" alt="aninotrude" /></p>
 
-![Snake animation](https://github.com/aninotrude/aninotrude/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AniNotRude/AniNotRude/blob/output/github-contribution-grid-snake.svg)
