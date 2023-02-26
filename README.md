@@ -34,5 +34,5 @@
 
  ‎
  
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=aninotrudes=true&theme=radical)](https://github.com/aninotrudeadme-stats) ‎ ‎ ‎ ‎ ‎![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonyOx369&theme=radical)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=aninotrudes=true&theme=radical)](https://github.com/aninotrudeadme-stats) ‎ ‎ ‎ ‎ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aninotrude369&theme=radical)
 
