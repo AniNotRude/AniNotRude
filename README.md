@@ -28,7 +28,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aninotrude&show_icons=true&locale=en" alt="aninotrude" /></p>
 
-![](https://komarev.com/ghpvc/?username=TonyOx369&color=red&style=flat-square)
+![](https://komarev.com/ghpvc/?username=aninotrude&color=red&style=flat-square)
 
 
 
