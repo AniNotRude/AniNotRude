@@ -28,3 +28,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aninotrude&show_icons=true&locale=en" alt="aninotrude" /></p>
 
+![](https://komarev.com/ghpvc/?username=TonyOx369&color=red&style=flat-square)
+
+
+
+ ‎
+ 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=aninotrudes=true&theme=radical)](https://github.com/aninotrudeadme-stats) ‎ ‎ ‎ ‎ ‎![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonyOx369&theme=radical)
+
