@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anirudh</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I'm Anirudh</h1>
 <h3 align="center">An ambitious engineering student passionate about implementing theoretical concepts into scalable and practical solutions.</h3>
 
 - 🔭 I’m currently working on **Autonomous Underwater Vehicle**
