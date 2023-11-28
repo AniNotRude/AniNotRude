@@ -43,10 +43,11 @@
 
 ### 🔝 Top Contributed Repo
 <div align="center">
+  
 ![](https://github-contributor-stats.vercel.app/api?username=AniNotRude&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
-![]("https://clipart-library.com/image_gallery/n1582649.gif")
+  <img height="200" src="https://clipart-library.com/image_gallery/n1582649.gif"  />
 </div>
 
 ###
