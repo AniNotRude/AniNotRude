@@ -1,10 +1,10 @@
 
-<h1 align="center">Hi 👋, I'm Anirudh</h1>
-<h3 align="center">An ambitious engineering student passionate about implementing theoretical concepts into scalable and practical solutions.</h3>
-
-<div align="center">
+<div align="right">
   <img height="200" src="a4b0d9038764c9ee211e0957540144f0-removebg-preview (1).png"  />
 </div>
+
+<h1 align="center">Hi 👋, I'm Anirudh</h1>
+<h3 align="center">An ambitious engineering student passionate about implementing theoretical concepts into scalable and practical solutions.</h3>
 
 ###
 
