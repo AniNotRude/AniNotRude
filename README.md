@@ -1,4 +1,6 @@
+<div align="right">
 ![](https://github.com/AniNotRude/AniNotRude/blob/main/a4b0d9038764c9ee211e0957540144f0-removebg-preview.png)
+</div>
 <h1 align="center">Hi 👋, I'm Anirudh</h1>
 <h3 align="center">An ambitious engineering student passionate about implementing theoretical concepts into scalable and practical solutions.</h3>
 
