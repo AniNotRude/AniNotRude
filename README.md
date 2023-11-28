@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Anirudh</h1>
 <h3 align="center">An ambitious engineering student passionate about implementing theoretical concepts into scalable and practical solutions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aninotrude&label=Profile%20views&color=0e75b6&style=flat" alt="aninotrude" /> </p>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/AniNotRude/count.svg?"  />
+</div>
+
+
 
 - 🔭 I’m currently working on **Autonomous Underwater Vehicle**
 
