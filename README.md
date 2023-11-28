@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="300" src="https://i.pinimg.com/originals/83/50/71/835071788bb87838e776eb83c93541dd.gif"  />
+</div>
+
+###
+
 <h1 align="center">Hi 👋, I'm Anirudh</h1>
 <h3 align="center">An ambitious engineering student passionate about implementing theoretical concepts into scalable and practical solutions.</h3>
 
